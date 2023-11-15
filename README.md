@@ -13,9 +13,9 @@ POHScheduler is a PowerShell-based task scheduling framework that enables the au
 
 To get started with POSHScheduler, clone the repository to your local machine using:
 
-\```shell
+```shell
 git clone https://github.com/your-username/POSHScheduler.git
-\```
+```
 
 Set up the folder structure as per the guidelines in the repository and place your PowerShell scripts in the respective folders based on their intended schedule.
 
@@ -23,9 +23,9 @@ Set up the folder structure as per the guidelines in the repository and place yo
 
 Run the main scheduler script using PowerShell:
 
-\```shell
+```shell
 pwsh ./POSHScheduler.ps1
-\```
+```
 
 Or set it up as a Windows Service using a service wrapper like NSSM for continuous operation.
 
